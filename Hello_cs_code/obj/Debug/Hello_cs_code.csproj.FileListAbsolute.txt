@@ -1,0 +1,11 @@
+C:\Users\Luis.Bautista\source\repos\Hello_cs_code\Hello_cs_code\bin\Debug\Hello_cs_code.exe.config
+C:\Users\Luis.Bautista\source\repos\Hello_cs_code\Hello_cs_code\bin\Debug\Hello_cs_code.exe
+C:\Users\Luis.Bautista\source\repos\Hello_cs_code\Hello_cs_code\bin\Debug\Hello_cs_code.pdb
+C:\Users\Luis.Bautista\source\repos\Hello_cs_code\Hello_cs_code\obj\Debug\Hello_cs_code.csproj.AssemblyReference.cache
+C:\Users\Luis.Bautista\source\repos\Hello_cs_code\Hello_cs_code\obj\Debug\Hello_cs_code.csproj.SuggestedBindingRedirects.cache
+C:\Users\Luis.Bautista\source\repos\Hello_cs_code\Hello_cs_code\obj\Debug\Hello_cs_code.Form1.resources
+C:\Users\Luis.Bautista\source\repos\Hello_cs_code\Hello_cs_code\obj\Debug\Hello_cs_code.Properties.Resources.resources
+C:\Users\Luis.Bautista\source\repos\Hello_cs_code\Hello_cs_code\obj\Debug\Hello_cs_code.csproj.GenerateResource.cache
+C:\Users\Luis.Bautista\source\repos\Hello_cs_code\Hello_cs_code\obj\Debug\Hello_cs_code.csproj.CoreCompileInputs.cache
+C:\Users\Luis.Bautista\source\repos\Hello_cs_code\Hello_cs_code\obj\Debug\Hello_cs_code.exe
+C:\Users\Luis.Bautista\source\repos\Hello_cs_code\Hello_cs_code\obj\Debug\Hello_cs_code.pdb
